@@ -5,7 +5,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
   1. Actinic keratosis
   2. Basal cell carcinoma
-` 3. Dermatofibroma
+  3. Dermatofibroma
   4. Melanoma
   5. Nevus
   6. Pigmented benign keratosis
